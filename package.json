@@ -1,0 +1,25 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Tac tac toe tech test",
+  "main": "ticTacToe.js",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkclark/tic_tac_toe.git"
+  },
+  "author": "Rick Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkclark/tic_tac_toe/issues"
+  },
+  "homepage": "https://github.com/rkclark/tic_tac_toe#readme"
+}
